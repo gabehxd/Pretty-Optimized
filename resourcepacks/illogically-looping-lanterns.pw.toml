@@ -1,0 +1,13 @@
+name = "Illogically Looping Lanterns"
+filename = "Illogically Looping Lanterns.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/It1UKgih/versions/i2hEeh9Y/Illogically%20Looping%20Lanterns.zip"
+hash-format = "sha512"
+hash = "7acd45780b4803c7d6af39708e338c90f653152a2afed3efa551f212bb5c6d6b8c635e1c74e7859341ed7ab10c9b9b82e2e6ebb3761559bee55ee718c31b0f0c"
+
+[update]
+[update.modrinth]
+mod-id = "It1UKgih"
+version = "i2hEeh9Y"

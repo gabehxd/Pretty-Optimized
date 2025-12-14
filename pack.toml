@@ -1,0 +1,16 @@
+name = "Pretty Optimized"
+author = "gabeh"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c4d705cbb8d407effa76ebad1f0d38fca1c496abaaf2eb7017769377be7c4cab"
+
+[versions]
+fabric = "0.18.2"
+minecraft = "1.21.10"
+
+[options]
+acceptable-game-versions = ["1.21.5", "1.17"]

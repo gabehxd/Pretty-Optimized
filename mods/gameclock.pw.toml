@@ -1,0 +1,13 @@
+name = "GameClock"
+filename = "gameclock-fabric-2.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vnpgS9i8/versions/WPmDKdS5/gameclock-fabric-2.2.0.jar"
+hash-format = "sha512"
+hash = "25bb59b83a7a64e00ed0fd13bca68ce5b6239f837848f3b5d98f8fc215cfcf7e5db912faf0f2a6e420c5b18526e2eb73ae18bbd5a6495fcf6ec4690ed5e3de37"
+
+[update]
+[update.modrinth]
+mod-id = "vnpgS9i8"
+version = "WPmDKdS5"
