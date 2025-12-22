@@ -6,7 +6,7 @@ hash = "88b895a79c9443973c470322ce389c78a7d0f1a46e9abb1e4713d576d1f4368b"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "12e23b7f0c6609357ebe9efde1c09ea9de3feea50e448fa5bf9623a1e146eaa3"
+hash = "5b1ba329a37de46fc0a36be19c1cc8ba3d59fdec377f2da3c568b6a1789af2a2"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -94,7 +94,7 @@ hash = "ff914767098b00b03bd4ffc92f0d72320dc6a700d556c09d5e460404b77a530a"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e50f9891d5b28f9afa8a3c6154e4d33d9de728338b1551b50a3237708df63280"
+hash = "e82f11801e10f0f55deb75b3ce5ee56bb5a704dd0e5b010a3b00364bf9ed2769"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -119,16 +119,6 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
-metafile = true
-
-[[files]]
-file = "mods/better-mount-hud.pw.toml"
-hash = "6ef53c2c4e506e111b4bd7c1bc8804a5a7dcb2f6e3b79054575e73f6ce61ee94"
-metafile = true
-
-[[files]]
-file = "mods/betterf3.pw.toml"
-hash = "59658f3b9d3b86b24440008fd2031c53d538cbb35e84524bcdbc67f0de7ea251"
 metafile = true
 
 [[files]]
@@ -237,11 +227,6 @@ hash = "402069ebe33a1f19e6e5c0c0235267b832ba44617f15ddbdc677faf2a2607e38"
 metafile = true
 
 [[files]]
-file = "mods/invmove.pw.toml"
-hash = "2b8cc2bbdaf6faf6e68ce536f7ce00964dde7409eb373ef0483e083356d1d061"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "b7d33095f206cb34dc8cd3d5410a00597439a2fc793f4c158c7a2ecfc7e85e82"
 metafile = true
@@ -322,11 +307,6 @@ hash = "f8231b6ff29c1ff27d5acd191929609e98706c498abe61369db53554b0638548"
 metafile = true
 
 [[files]]
-file = "mods/particle-rain.pw.toml"
-hash = "11d24c43e240249b5dd24e0dcdb99b4c3ada768c1cd1664ed18fc498d6add67c"
-metafile = true
-
-[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "4f09ed451dc2215f4cb0ba6d3857d6bb61fedc05f5b12e8084db0d7417a3e395"
 metafile = true
@@ -394,16 +374,6 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "d44e2b5db1fb0c90d9ec5f25a153a437ea71c59a499491b6d639fff69cec8ba4"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "993390d4661a77aa83c8416f75addfccaf7cee0a7a7311a21742b2036700b5ac"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "53c8bc02c9b10610c43fc29127039036217e33a95ab2ea2d6ac291987266ef89"
 metafile = true
 
 [[files]]
