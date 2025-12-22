@@ -1,13 +1,13 @@
 name = "Overflowing Bars"
-filename = "OverflowingBars-v21.10.1+mc1.21.10-Fabric.jar"
+filename = "OverflowingBars-v21.11.0-mc1.21.11-Fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XD7XOrAF/versions/DUrPHVir/OverflowingBars-v21.10.1%2Bmc1.21.10-Fabric.jar"
+url = "https://cdn.modrinth.com/data/XD7XOrAF/versions/Wtc9Dvls/OverflowingBars-v21.11.0-mc1.21.11-Fabric.jar"
 hash-format = "sha512"
-hash = "d05e49f2b321fd39b43bb69738eddc85fa396485513de783f8d6b99c2d83405b88bca1210b11b86101563c8ffa9d3b16e81acb4c7a574adff52b171646604c87"
+hash = "b4534cbbb9df0923b875a3783463791bb5f43c885f6a33dfe53bd0dbe052b682f4972be3d7b0e2cebcf2870791813b906626ac596d90904abbaf1b67bccac0ec"
 
 [update]
 [update.modrinth]
 mod-id = "XD7XOrAF"
-version = "DUrPHVir"
+version = "Wtc9Dvls"
