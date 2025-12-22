@@ -5,6 +5,10 @@ file = "config/simple-rpc/simple-rpc.toml"
 hash = "88b895a79c9443973c470322ce389c78a7d0f1a46e9abb1e4713d576d1f4368b"
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "12e23b7f0c6609357ebe9efde1c09ea9de3feea50e448fa5bf9623a1e146eaa3"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
@@ -86,7 +90,7 @@ hash = "ff914767098b00b03bd4ffc92f0d72320dc6a700d556c09d5e460404b77a530a"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8755a6e6fc322dbe3457c0356cb4e6a677f0f343b975d497da5ec13f30690016"
+hash = "f1b020c1008b52126274454cb6ae58b39c96150ebf6e4efda11f2e0d4f4fa208"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -444,8 +448,13 @@ hash = "22052f42b1b73226d9508ef42af962471c79c7daa281aac66a82a90c7d7bb9e5"
 metafile = true
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r678778_MC1.21.x.zip"
-hash = "ee8cde9db12acff05b7f5ec7f5b3be15487f282015f9519d6150b1f9939f9737"
+file = "resourcepacks/3d-default.pw.toml"
+hash = "7586b798faa2894f293b307a9a0d5ffbd4d6a67192fb4e68b5b3c9e813070fb8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r354252_MC1.21.x.zip"
+hash = "d3aad85c605a557b7352331e7bb5079d94ffe500d64fd3f28fdf2780e784ee83"
 
 [[files]]
 file = "resourcepacks/better-flame-particles.pw.toml"
@@ -459,6 +468,11 @@ hash = "48223064bc86ff061e5a04529cdbfdbba954ef9b462dc7f2369960f46c9be595"
 [[files]]
 file = "resourcepacks/illogically-looping-lanterns.pw.toml"
 hash = "e1b1bd78f4bd0c9719ee17efc8d941f9c967e557b7118d2ea71b3f3df7bcfd62"
+metafile = true
+
+[[files]]
+file = "resourcepacks/overlays.pw.toml"
+hash = "d849106688dd637175ff88ec3e1e8577071774de87f6ea881750568a5e67bc28"
 metafile = true
 
 [[files]]
