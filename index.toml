@@ -317,6 +317,11 @@ hash = "f8231b6ff29c1ff27d5acd191929609e98706c498abe61369db53554b0638548"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "a30cbee2389f725ee75d142e947184798214df9a7bf4a165c30a34659196986d"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "4f09ed451dc2215f4cb0ba6d3857d6bb61fedc05f5b12e8084db0d7417a3e395"
 metafile = true
