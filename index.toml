@@ -157,6 +157,11 @@ hash = "d8e2eb843f684b6abe48010c4ebf3e1300bd0fe9a4132e2744757d850171f4b7"
 metafile = true
 
 [[files]]
+file = "mods/coolrain.pw.toml"
+hash = "044edc6e1a256881eacca42d9f988f6b27f8d3c65537db37b585911a308d5658"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "d036c801bc536e98cb8e5fb4c6a4be038d5e4facae4a73850588f58559cceb48"
 metafile = true
@@ -297,11 +302,6 @@ hash = "4c4f8569adba682de05800e73690fec8ce64d9d86341862ac6d9315d9dec01eb"
 metafile = true
 
 [[files]]
-file = "mods/optiboxes.pw.toml"
-hash = "90cae440648d7c37b5996f33969bbfca23ea1d6160ceb0f3fdf5b6cf1124f10c"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "08b89b53c392b5fa29198418df8598404d93c58eae40d432caed797c828adbd5"
 metafile = true
@@ -369,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "82a7a2d7cf37f5ceab22bcdacfd3206ede5a69c30b4f567a3976293e2231d30d"
+metafile = true
+
+[[files]]
+file = "mods/skyboxify.pw.toml"
+hash = "f7aa11586bdbdd431efdb0388a40c2fa9f70814bb7da295b87618557d38b73a5"
 metafile = true
 
 [[files]]
