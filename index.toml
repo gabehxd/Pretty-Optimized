@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "09d9bcf41357ee2baf28a26418bc1ed5d68ad7044252e976081295bde8dddb2e"
+hash = "6085d2f0a5deabc026667492ac344d9b9007c80ccadb3f916fe9b0ec3037f022"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "05e66fdfaf3f922718f38a18090c498d612160d342a7e3846fb7f666cf8bac3d"
+hash = "d01d2655ccdff86bed703c88ce3cac460ee4fda4a7a585061dc6fd203bb4128f"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "10e5927ba9ddb93e40ab50990b34317069a2dc251109dbc24177eaca8b082275"
+hash = "3cbdb02ff4be022d7e0f9b82cd64a36669d5986d7ed3ddcf7bcdbacc0b1b4b2a"
 metafile = true
 
 [[files]]
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "87225b53fc99a1bd3175357d9b7d359924877f30656550e563d16caa4a9373e1"
+hash = "71cf0534dd8b064616a6120c2b93023340bc79d2db21a1d9197087b9c9d7eee5"
 metafile = true
 
 [[files]]
