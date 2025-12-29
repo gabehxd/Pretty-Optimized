@@ -81,16 +81,28 @@ file = "config/yosbr/config/sodium-shadowy-path-blocks-options.json"
 hash = "4773ede8076bdbcfb6b8ea3de058a56120aa7438ee6b25de297c10aa8f5ce393"
 
 [[files]]
-file = "config/yosbr/config/xaerominimap.txt"
-hash = "e848db722caab8ac8bcbf835432f8e515077adccae0e5012c8ff82654ddc07a4"
+file = "config/yosbr/config/xaero/minimap/client.cfg"
+hash = "7ef33b455ff854859881df29406635f20c2c419fe140dc5ce034c93cdc8bf870"
 
 [[files]]
-file = "config/yosbr/config/xaerominimap_entities.json"
-hash = "76239797bf685ce3eca8189781511516c2b9676465aabb34e708cdfbe5a404a1"
+file = "config/yosbr/config/xaero/minimap/profiles/default.cfg"
+hash = "3aa1f09e37fc6f8af94a9b95995cb630e3189ff19f4829df84c9af25e6cf2a45"
 
 [[files]]
-file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "ff914767098b00b03bd4ffc92f0d72320dc6a700d556c09d5e460404b77a530a"
+file = "config/yosbr/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "91d179279d960ef0a142608d3ceccba5062f7461d11d0cfe3a4d4b067782c537"
+
+[[files]]
+file = "config/yosbr/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "9e1877c0fae35b98a139b86199a1e19e2425179a1bf8415e6bf9d1a5c7827638"
+
+[[files]]
+file = "config/yosbr/config/xaero/world-map/client.cfg"
+hash = "7ef33b455ff854859881df29406635f20c2c419fe140dc5ce034c93cdc8bf870"
+
+[[files]]
+file = "config/yosbr/config/xaerohud.txt"
+hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -399,6 +411,16 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "d44e2b5db1fb0c90d9ec5f25a153a437ea71c59a499491b6d639fff69cec8ba4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "1d899639ac582db8e5b151d6847def3255a401bd7bcbe17f8b15cbe8d8a57023"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "3e6b359a6e5d77206af36600617e6591b070183efec3dcaac74746c57dd11916"
 metafile = true
 
 [[files]]
