@@ -184,6 +184,11 @@ hash = "e661900027e02f1d44f54559e8d67a0b3b507b831be4eb05ab73a0133b22791e"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
 metafile = true
