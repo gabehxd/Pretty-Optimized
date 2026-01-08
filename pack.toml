@@ -1,12 +1,12 @@
 name = "Pretty Optimized"
 author = "gabeh"
-version = "1.1.0-beta4"
+version = "1.1.0-beta5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8bc4dba757792ff6ec0d2485ecfaf8e3c2db5dc98bb0cfda2012b87aaf272ab9"
+hash = "da50f15d3594fd1877ed4ea38123d84d17e88504305f8e0dc0fd24eef6e8ac12"
 
 [versions]
 fabric = "0.18.4"

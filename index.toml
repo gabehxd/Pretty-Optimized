@@ -110,7 +110,7 @@ hash = "e82f11801e10f0f55deb75b3ce5ee56bb5a704dd0e5b010a3b00364bf9ed2769"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "7f1c3e31956f93cdfde2908945bd27b2f28a495fda5404bdeb453c4b97c95c3f"
+hash = "f4bd97d3dacf5726247f4a2dee57e318537a354c68757cd3e2f3329b17754fd0"
 metafile = true
 
 [[files]]
@@ -344,6 +344,11 @@ hash = "4f09ed451dc2215f4cb0ba6d3857d6bb61fedc05f5b12e8084db0d7417a3e395"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "80240bd6be393c35cd863b8f96d1e3ce877ee5aa16e30eac6c17ace1c0b27473"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "13369d7a10a47895f33629f000945d6bdf43f7b19a9ff1ca2ecfbc209c1ac431"
 metafile = true
@@ -411,6 +416,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
+metafile = true
+
+[[files]]
+file = "mods/threatengl.pw.toml"
+hash = "c4cdbb072c6b897964a0b0e4d6bfd4e7948206b8e840d83882258b11962e040f"
 metafile = true
 
 [[files]]
